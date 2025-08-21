@@ -13,3 +13,4 @@ while True:
         break
     else:
         print("Invalid input. Please enter 'boy', 'girl', or 'exit'.")
+        print("Please try again.")
