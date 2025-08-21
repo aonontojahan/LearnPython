@@ -1,9 +1,0 @@
-number = [10, 20, 30, 40, 50]
-print("The numbers are : ",number)
-print("\n")
-
-index = 0
-while index < 5 :
-    print(number[index])
-    index = index + 1
-print("The operation is done")
